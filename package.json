@@ -1,0 +1,28 @@
+{
+  "name": "expresshandlebars",
+  "version": "1.0.0",
+  "description": "This is a sample application created for showing express handlebars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sauravkp/node-express-handlebars-example.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "handlebars"
+  ],
+  "author": "Saurav Panda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sauravkp/node-express-handlebars-example/issues"
+  },
+  "homepage": "https://github.com/sauravkp/node-express-handlebars-example#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0"
+  }
+}
